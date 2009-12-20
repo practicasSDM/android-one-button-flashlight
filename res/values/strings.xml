@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about_text">Push the button below to turn on the flash.</string>
+    <string name="app_name">Flashlight</string>
+    <string name="Button01">Turn Light On</string>
+    <string name="Button02">Turn Light Off</string>
+</resources>
