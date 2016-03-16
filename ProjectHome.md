@@ -1,0 +1,1 @@
+The one button flashlight is a simple flashlight app. No morse code, strobe lights, or anything. In the future, you should also be able to change the size of the button, and move it around the layout.
